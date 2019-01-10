@@ -1,3 +1,5 @@
 Exemple
 
-modifi√©e
+modifi√e
+
+depuis mon local
